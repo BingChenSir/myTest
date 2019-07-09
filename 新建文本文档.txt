@@ -1,1 +1,2 @@
 hello word!
+hello Word 你好!
